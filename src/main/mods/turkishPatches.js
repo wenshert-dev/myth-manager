@@ -13,7 +13,7 @@ const TURKISH_PATCHES = [
         version: 'v4.04-TR',
         category: 'RPG',
         description: 'The Witcher 3: Wild Hunt %100 Türkçe Altyazı ve Menü Yaması (DLC\'ler dahil).',
-        downloadUrl: 'https://raw.githubusercontent.com/vuenxx/myth-manager/main/patches/witcher3_tr.zip',
+        downloadUrl: 'https://raw.githubusercontent.com/wenshert-dev/myth-manager/main/patches/witcher3_tr.zip',
         targetRelativePath: 'bin/config'
     },
     {
@@ -24,7 +24,7 @@ const TURKISH_PATCHES = [
         version: 'v2.12-TR',
         category: 'RPG',
         description: 'Cyberpunk 2077 & Phantom Liberty DLC tam Türkçe çeviri düzeltme paketi.',
-        downloadUrl: 'https://raw.githubusercontent.com/vuenxx/myth-manager/main/patches/cyberpunk_tr.zip',
+        downloadUrl: 'https://raw.githubusercontent.com/wenshert-dev/myth-manager/main/patches/cyberpunk_tr.zip',
         targetRelativePath: 'r6/config'
     },
     {
@@ -35,7 +35,7 @@ const TURKISH_PATCHES = [
         version: 'v1.0.1491-TR',
         category: 'Open World',
         description: 'Red Dead Redemption 2 %100 Türkçe Yama (Font düzeltmeleri yapılmıştır).',
-        downloadUrl: 'https://raw.githubusercontent.com/vuenxx/myth-manager/main/patches/rdr2_tr.zip',
+        downloadUrl: 'https://raw.githubusercontent.com/wenshert-dev/myth-manager/main/patches/rdr2_tr.zip',
         targetRelativePath: ''
     },
     {
@@ -46,7 +46,7 @@ const TURKISH_PATCHES = [
         version: 'v1.0-TR',
         category: 'Action',
         description: 'GTA V Hikaye Modu %100 Türkçe Metin Yaması.',
-        downloadUrl: 'https://raw.githubusercontent.com/vuenxx/myth-manager/main/patches/gtav_tr.zip',
+        downloadUrl: 'https://raw.githubusercontent.com/wenshert-dev/myth-manager/main/patches/gtav_tr.zip',
         targetRelativePath: ''
     },
     {
@@ -57,7 +57,7 @@ const TURKISH_PATCHES = [
         version: 'v1.0.12-TR',
         category: 'Action',
         description: 'God of War (PC) Türkçe alt yazı ve arayüz metinleri.',
-        downloadUrl: 'https://raw.githubusercontent.com/vuenxx/myth-manager/main/patches/gow_tr.zip',
+        downloadUrl: 'https://raw.githubusercontent.com/wenshert-dev/myth-manager/main/patches/gow_tr.zip',
         targetRelativePath: 'exec'
     },
     {
@@ -68,7 +68,7 @@ const TURKISH_PATCHES = [
         version: 'v1.10-TR',
         category: 'RPG',
         description: 'Elden Ring & Shadow of the Erdtree Türkçe çeviri paketi.',
-        downloadUrl: 'https://raw.githubusercontent.com/vuenxx/myth-manager/main/patches/eldenring_tr.zip',
+        downloadUrl: 'https://raw.githubusercontent.com/wenshert-dev/myth-manager/main/patches/eldenring_tr.zip',
         targetRelativePath: 'Game'
     },
     {
@@ -79,7 +79,7 @@ const TURKISH_PATCHES = [
         version: 'v1.1.2-TR',
         category: 'Action',
         description: 'The Last of Us Part I PC Sürümü Türkçe Altyazı ve Diyalog Yaması.',
-        downloadUrl: 'https://raw.githubusercontent.com/vuenxx/myth-manager/main/patches/tlou1_tr.zip',
+        downloadUrl: 'https://raw.githubusercontent.com/wenshert-dev/myth-manager/main/patches/tlou1_tr.zip',
         targetRelativePath: 'build/pc/main'
     },
     {
@@ -90,7 +90,7 @@ const TURKISH_PATCHES = [
         version: 'v1.0-TR',
         category: 'RPG',
         description: 'Hogwarts Legacy %100 Türkçe Büyü ve Hikaye Metinleri.',
-        downloadUrl: 'https://raw.githubusercontent.com/vuenxx/myth-manager/main/patches/hogwarts_tr.zip',
+        downloadUrl: 'https://raw.githubusercontent.com/wenshert-dev/myth-manager/main/patches/hogwarts_tr.zip',
         targetRelativePath: 'Phoenix/Content/Paks'
     },
     {
@@ -101,7 +101,7 @@ const TURKISH_PATCHES = [
         version: 'v1.05-TR',
         category: 'Action',
         description: 'Resident Evil 4 Remake Türkçe Altyazı ve Envanter Yaması.',
-        downloadUrl: 'https://raw.githubusercontent.com/vuenxx/myth-manager/main/patches/re4_tr.zip',
+        downloadUrl: 'https://raw.githubusercontent.com/wenshert-dev/myth-manager/main/patches/re4_tr.zip',
         targetRelativePath: ''
     },
     {
@@ -112,7 +112,7 @@ const TURKISH_PATCHES = [
         version: 'v1.9-TR',
         category: 'RPG',
         description: 'Skyrim Special / Anniversary Edition %100 Türkçe Yama.',
-        downloadUrl: 'https://raw.githubusercontent.com/vuenxx/myth-manager/main/patches/skyrim_tr.zip',
+        downloadUrl: 'https://raw.githubusercontent.com/wenshert-dev/myth-manager/main/patches/skyrim_tr.zip',
         targetRelativePath: 'Data'
     }
 ];

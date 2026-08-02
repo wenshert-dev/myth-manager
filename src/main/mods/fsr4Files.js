@@ -46,8 +46,8 @@ async function getFsr4Releases() {
     }
 
     try {
-        const response = await fetch('https://api.github.com/repos/vuenxx/extra_policebosstr/releases', {
-            headers: { 'User-Agent': 'vuenxxFG' }
+        const response = await fetch('https://api.github.com/repos/wenshert-dev/extra_policebosstr/releases', {
+            headers: { 'User-Agent': 'wenshert-devFG' }
         });
 
         if (response.status === 403) {

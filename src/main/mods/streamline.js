@@ -707,7 +707,7 @@ async function getStreamlineReleases(forceRefresh = false) {
 
     try {
         const response = await fetch('https://api.github.com/repos/NVIDIA-RTX/Streamline/releases', {
-            headers: { 'User-Agent': 'vuenxxFG' }
+            headers: { 'User-Agent': 'wenshert-devFG' }
         });
 
         if (response.status === 403) {

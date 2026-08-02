@@ -54,7 +54,7 @@ async function getOptiScalerReleases(forceRefresh = false) {
 
     try {
         const response = await fetch('https://api.github.com/repos/optiscaler/OptiScaler/releases', {
-            headers: { 'User-Agent': 'vuenxxFG' }
+            headers: { 'User-Agent': 'wenshert-devFG' }
         });
 
         if (response.status === 403) {
