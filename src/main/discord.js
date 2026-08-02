@@ -17,7 +17,7 @@ let lastPresenceString = '';
 const startTime = Date.now();
 
 // Constant configuration parameters
-const CLIENT_ID = '1519739544478417026';
+const CLIENT_ID = '1533610561986891876';
 
 const TRANSLATIONS = {
     tr: {
