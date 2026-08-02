@@ -112,9 +112,11 @@ function setPresence() {
     // 1. Build presence object
     const presence = {
         details: 'Myth Manager - FPS & Game Optimizer',
-        state: 'Myth Manager',
-        largeImageKey: 'program_logo',
+        state: 'Myth Manager by wenshert-dev',
+        largeImageKey: 'logo',
         largeImageText: 'Myth Manager - FPS & Game Optimizer',
+        smallImageKey: 'program_logo',
+        smallImageText: 'Myth Manager',
         startTimestamp: startTime,
         buttons: [
             {
